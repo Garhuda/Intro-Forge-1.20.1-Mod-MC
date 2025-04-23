@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "#": {
+      "item": "minecraft:rotten_flesh"
+    },
+    "i": {
+      "item": "minecraft:stick"
+    }
+  },
+  "pattern": [
+    "   ",
+    " # ",
+    " i "
+  ],
+  "result": {
+    "item": "obamamod:poo_stick"
+  },
+  "show_notification": true
+}

@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:smelting",
+  "category": "misc",
+  "cookingtime": 150,
+  "experience": 100,
+  "group": "obama_ingot",
+  "ingredient": {
+    "item": "obamamod:obama"
+  },
+  "result": "obamamod:obama_ingot"
+}

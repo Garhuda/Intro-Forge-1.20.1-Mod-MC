@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "#": {
+      "item": "obamamod:obama_ingot"
+    },
+    "i": {
+      "item": "minecraft:stick"
+    }
+  },
+  "pattern": [
+    " # ",
+    " # ",
+    " i "
+  ],
+  "result": {
+    "item": "obamamod:obama_sword"
+  },
+  "show_notification": true
+}

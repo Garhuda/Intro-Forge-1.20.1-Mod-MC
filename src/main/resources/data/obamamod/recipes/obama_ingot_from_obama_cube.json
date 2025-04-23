@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "ingredients",
+  "ingredients": [
+    {
+      "item": "obamamod:obama_cube"
+    }
+  ],
+  "result": {
+    "item": "obamamod:obama_ingot",
+    "count": 9
+  }
+}
